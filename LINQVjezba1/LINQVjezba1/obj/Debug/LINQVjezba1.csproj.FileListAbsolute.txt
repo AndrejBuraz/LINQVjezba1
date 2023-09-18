@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\LINQVjezba1\LINQVjezba1\bin\Debug\LINQVjezba1.exe.config
+C:\Users\ucenik\source\repos\LINQVjezba1\LINQVjezba1\bin\Debug\LINQVjezba1.exe
+C:\Users\ucenik\source\repos\LINQVjezba1\LINQVjezba1\bin\Debug\LINQVjezba1.pdb
+C:\Users\ucenik\source\repos\LINQVjezba1\LINQVjezba1\obj\Debug\LINQVjezba1.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\LINQVjezba1\LINQVjezba1\obj\Debug\LINQVjezba1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\LINQVjezba1\LINQVjezba1\obj\Debug\LINQVjezba1.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\LINQVjezba1\LINQVjezba1\obj\Debug\LINQVjezba1.exe
+C:\Users\ucenik\source\repos\LINQVjezba1\LINQVjezba1\obj\Debug\LINQVjezba1.pdb
